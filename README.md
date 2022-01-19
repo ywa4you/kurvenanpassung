@@ -1,4 +1,4 @@
-# ywa--kurvenanpassung
+# Kurvenanpassung
 A small tool for calculating and drawing the best function for given points.
 This wasn't made for you to solve your homework. Use this tool to compare your
 answers. Alternatively it will maybe help you understand how the algorithm works.
